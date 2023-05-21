@@ -1,1 +1,23 @@
-
+.self .img{
+	position:absolute;
+	left:0;
+}
+.self{
+	display:flex;
+}
+.self .info{
+	position:absolute;
+	right:30%;
+	top:40px;
+}
+.self .info .b{
+	font-weight:bold;
+}
+.skill-heading{
+	margin-top:40%;
+/* 	margin-left:-60px; */
+}
+.skills #last{
+    position:absolute;
+	left:30rem;
+}
